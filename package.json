@@ -32,7 +32,6 @@
     "/public/build"
   ],
   "dependencies": {
-    "@prisma/client": "^3.11.1",
     "@remix-run/node": "*",
     "@remix-run/react": "*",
     "@remix-run/serve": "*",
@@ -44,6 +43,7 @@
   },
   "devDependencies": {
     "@faker-js/faker": "^6.1.1",
+    "@prisma/client": "^4.15.0",
     "@remix-run/dev": "*",
     "@remix-run/eslint-config": "*",
     "@testing-library/cypress": "^8.0.2",
